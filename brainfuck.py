@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+"""
+Referenced from: http://d.hatena.ne.jp/fuyumi3/20110910/1315659503
+"""
 import sys
 
 class Brainfuck():
